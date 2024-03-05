@@ -1,0 +1,44 @@
+:root {
+    --red: red;
+    --blue: blue;
+    --orange: orange;
+    --green: green;
+    --yellow: yellow;
+}
+
+body {
+    margin: 16px;
+}
+
+h1 {
+    margin-top: 10px;
+}
+
+img {
+    height: 200px;
+    width: 200px;
+}
+
+#red {
+    color: var(--red);
+}
+
+#blue {
+    color: var(--blue);
+}
+
+#orange {
+    color: var(--orange);
+}
+
+#green {
+    color: var(--green);
+}
+
+#yellow {
+    color: var(--yellow);
+}
+
+.color-title {
+    font-weight: normal;
+}
